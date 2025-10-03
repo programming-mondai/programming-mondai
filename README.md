@@ -34,7 +34,7 @@ git clone https://github.com/programming-mondai/python-text-games.git
 cd python-text-games/highlow_game
 python highlow_game.py
 
-学習ロードマップ（対応トピック）
+## 学習ロードマップ（対応トピック）
 
 1️⃣ 変数・演算・乱数 → 数字当て
 
@@ -46,7 +46,7 @@ python highlow_game.py
 
 5️⃣ オブジェクト指向 → モンスター捕獲 / バトル
 
-コントリビュート歓迎
+## コントリビュート歓迎
 
 Issue で改善提案や質問を作成
 
@@ -54,7 +54,7 @@ feature/* ブランチで修正
 
 Pull Request を作成（スクリーンショットや学びのメモ歓迎）
 
-ガイドライン（簡易）
+## ガイドライン（簡易）
 
 可読性 > 省行数（初心者が読みやすい命名・コメント）
 
@@ -62,7 +62,7 @@ Pull Request を作成（スクリーンショットや学びのメモ歓迎）
 
 追加教材は 学べるポイント を3つまで箇条書きで README に追記
 
-運営
+## 運営
 
 🌐 Website: https://programming-mondai.com/
 
